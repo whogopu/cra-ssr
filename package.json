@@ -7,6 +7,7 @@
     "@emotion/core": "^11.0.0",
     "@emotion/css": "^11.10.5",
     "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
     "babel-plugin-dynamic-import-node": "^2.3.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "ignore-styles": "^5.0.1",
